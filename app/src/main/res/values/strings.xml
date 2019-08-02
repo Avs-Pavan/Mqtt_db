@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mqtt</string>
+    <string name="show_logs">show</string>
+    <string name="get_file">file</string>
+</resources>
